@@ -6,6 +6,8 @@ This repository contains documentation, practical implementation screenshots, an
 
 | Experiment | Title | PDF Report |
 | :--- | :--- | :--- |
+| **Experiment 2** | Git configuration, repositories, staging, commit workflow, and branch inspection | [`Exp-2_updated.pdf`](./Exp-2_updated.pdf) |
+| **Experiment 3** | Git branching, SSH authentication, and remote GitHub repository integration | [`Exp-3_updated.pdf`](./Exp-3_updated.pdf) |
 | **Experiment 4** | To install Docker Desktop and Docker, and use existing images from Docker Hub to create containers | [`Exp-4_updated.pdf`](./Exp-4_updated.pdf) |
 | **Experiment 5** | To containerize an application using a Docker container | [`Exp-5_updated.pdf`](./Exp-5_updated.pdf) |
 | **Experiment 6** | Orchestration of application components/microservices using Kubernetes and Docker containers | [`Exp-6_updated.pdf`](./Exp-6_updated.pdf) |
@@ -15,10 +17,14 @@ This repository contains documentation, practical implementation screenshots, an
 
 ## Directory Structure
 
+- `Exp-2_updated.pdf` - Final compiled PDF for Experiment 2
+- `Exp-3_updated.pdf` - Final compiled PDF for Experiment 3
 - `Exp-4_updated.pdf` - Final compiled PDF for Experiment 4
 - `Exp-5_updated.pdf` - Final compiled PDF for Experiment 5
 - `Exp-6_updated.pdf` - Final compiled PDF for Experiment 6
 - `Exp-7_updated.pdf` - Final compiled PDF for Experiment 7
+- `generated_images_exp2/` - High-resolution terminal and verification screenshots for Experiment 2
+- `generated_images_exp3/` - High-resolution terminal and verification screenshots for Experiment 3
 - `generated_images_exp4/` - High-resolution terminal and verification screenshots for Experiment 4
 - `generated_images_exp5/` - High-resolution terminal and verification screenshots for Experiment 5
 - `generated_images/` - High-resolution terminal and verification screenshots for Experiment 6
