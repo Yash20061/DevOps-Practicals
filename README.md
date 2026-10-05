@@ -13,6 +13,7 @@ This repository contains documentation, practical implementation screenshots, an
 | **Experiment 5** | To containerize an application using a Docker container | [`Exp-5_updated.pdf`](./Exp-5_updated.pdf) |
 | **Experiment 6** | Orchestration of application components/microservices using Kubernetes and Docker containers | [`Exp-6_updated.pdf`](./Exp-6_updated.pdf) |
 | **Experiment 7** | Jenkins architecture, installation, configuration, and pipelining primitives | [`Exp-7_updated.pdf`](./Exp-7_updated.pdf) |
+| **Jenkins CI/CD** | Automate deployment of Node.js and Express Product API using Jenkins Pipeline | [`Exp-Jenkins_updated.pdf`](./Exp-Jenkins_updated.pdf) |
 
 ---
 
@@ -25,6 +26,7 @@ This repository contains documentation, practical implementation screenshots, an
 - `Exp-5_updated.pdf` - Final compiled PDF for Experiment 5
 - `Exp-6_updated.pdf` - Final compiled PDF for Experiment 6
 - `Exp-7_updated.pdf` - Final compiled PDF for Experiment 7
+- `Exp-Jenkins_updated.pdf` - Final compiled PDF for Jenkins CI/CD Automation Practical
 - `generated_images_exp2/` - High-resolution terminal and verification screenshots for Experiment 2
 - `generated_images_exp3/` - High-resolution terminal and verification screenshots for Experiment 3
 - `generated_images_exp4/` - High-resolution terminal and verification screenshots for Experiment 4
